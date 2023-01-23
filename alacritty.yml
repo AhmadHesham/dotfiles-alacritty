@@ -1,0 +1,18 @@
+font:
+  normal:
+    family: JetBrainsMono Nerd Font
+  size: 15
+
+window:
+  opacity: 0.9
+  dimensions:
+    columns: 110
+    lines: 20
+  startup_mode: SimpleFullScreen
+
+colors:
+  primary:
+    background: '#14191e'
+    foreground: '#dbdbdb'
+
+tabspaces: 4
