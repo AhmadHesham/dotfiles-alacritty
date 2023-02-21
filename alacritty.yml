@@ -13,7 +13,7 @@ window:
   dimensions:
     columns: 110
     lines: 20
-  startup_mode: SimpleFullScreen
+  startup_mode: SimpleFullscreen
 
 colors:
   primary:
